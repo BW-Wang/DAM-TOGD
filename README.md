@@ -2,9 +2,7 @@
 
 This repository provides supplementary material for the paper:
 
-**Distributed Associative Memory via Online Convex Optimization**  
-*Bowen Wang, Matteo Zecchin, and Osvaldo Simeone*
-submitted to IEEE ICASSP 2025
+B. Wang, M. Zecchin, and O. Simeone, "Distributed Associative Memory via Online Convex Optimization," submitted to *2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
 
 ---
 
